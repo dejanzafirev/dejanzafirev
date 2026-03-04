@@ -6,13 +6,13 @@ I am a **PhD student and Research Assistant in Financial Economics at the Univer
 - Empirical Finance
 - Asset Pricing
 - Derivatives and Option Markets
-- Quantitative Finance
 - Financial Econometrics
 
 Previously, I completed my **MSc in Economics (Finance)** at the **University of Freiburg**.
 
-### Tools & Languages
+
+### Tools & Methods
 - R
 - Python
-- Econometrics
-- Statistical Learning
+- Financial Econometrics
+- Numerical Methods
